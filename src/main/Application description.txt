@@ -1,0 +1,7 @@
+This application will reverse words in standard input stream and send them to the standard output stream.
+
+For example, given the following execution:
+"Hello in my beautiful world"
+
+The output will be:
+"olleH ni ym fulituaeb dlrow"
